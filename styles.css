@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+.serna-img{
+    width: 150px;
+}
+.card{
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    border-bottom: 6px solid lightskyblue;
+    background-color: lightcyan;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
